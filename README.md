@@ -1,1 +1,1 @@
-# goblin-hunter
+# Goblin-Hunter
